@@ -1,0 +1,12 @@
+E:\Chaitali-DemoProjects\GenericReopApp\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+E:\Chaitali-DemoProjects\GenericReopApp\Application\bin\Debug\netcoreapp3.1\Application.dll
+E:\Chaitali-DemoProjects\GenericReopApp\Application\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Chaitali-DemoProjects\GenericReopApp\Application\bin\Debug\netcoreapp3.1\DataaAccess.dll
+E:\Chaitali-DemoProjects\GenericReopApp\Application\bin\Debug\netcoreapp3.1\DataaAccess.pdb
+E:\Chaitali-DemoProjects\GenericReopApp\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+E:\Chaitali-DemoProjects\GenericReopApp\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+E:\Chaitali-DemoProjects\GenericReopApp\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+E:\Chaitali-DemoProjects\GenericReopApp\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+E:\Chaitali-DemoProjects\GenericReopApp\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+E:\Chaitali-DemoProjects\GenericReopApp\Application\obj\Debug\netcoreapp3.1\Application.dll
+E:\Chaitali-DemoProjects\GenericReopApp\Application\obj\Debug\netcoreapp3.1\Application.pdb

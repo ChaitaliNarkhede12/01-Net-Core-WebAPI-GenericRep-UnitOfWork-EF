@@ -1,0 +1,12 @@
+E:\Chaitali-DemoProjects\GenericReopApp\DataaAccess\bin\Debug\netcoreapp3.1\DataaAccess.deps.json
+E:\Chaitali-DemoProjects\GenericReopApp\DataaAccess\bin\Debug\netcoreapp3.1\DataaAccess.runtimeconfig.json
+E:\Chaitali-DemoProjects\GenericReopApp\DataaAccess\bin\Debug\netcoreapp3.1\DataaAccess.runtimeconfig.dev.json
+E:\Chaitali-DemoProjects\GenericReopApp\DataaAccess\bin\Debug\netcoreapp3.1\DataaAccess.dll
+E:\Chaitali-DemoProjects\GenericReopApp\DataaAccess\bin\Debug\netcoreapp3.1\DataaAccess.pdb
+E:\Chaitali-DemoProjects\GenericReopApp\DataaAccess\obj\Debug\netcoreapp3.1\DataaAccess.AssemblyInfoInputs.cache
+E:\Chaitali-DemoProjects\GenericReopApp\DataaAccess\obj\Debug\netcoreapp3.1\DataaAccess.AssemblyInfo.cs
+E:\Chaitali-DemoProjects\GenericReopApp\DataaAccess\obj\Debug\netcoreapp3.1\DataaAccess.csproj.CoreCompileInputs.cache
+E:\Chaitali-DemoProjects\GenericReopApp\DataaAccess\obj\Debug\netcoreapp3.1\DataaAccess.dll
+E:\Chaitali-DemoProjects\GenericReopApp\DataaAccess\obj\Debug\netcoreapp3.1\DataaAccess.pdb
+E:\Chaitali-DemoProjects\GenericReopApp\DataaAccess\obj\Debug\netcoreapp3.1\DataaAccess.genruntimeconfig.cache
+E:\Chaitali-DemoProjects\GenericReopApp\DataaAccess\obj\Debug\netcoreapp3.1\DataaAccess.csprojAssemblyReference.cache
